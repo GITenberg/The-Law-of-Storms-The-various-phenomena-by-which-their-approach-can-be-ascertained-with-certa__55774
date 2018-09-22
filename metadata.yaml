@@ -1,5 +1,8 @@
 _repo: The-Law-of-Storms-The-various-phenomena-by-which-their-approach-can-be-ascertained-with-certa__55774
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55774-h/images/cover.jpg
 creator:
   author:
     agent_name: Ross, John Wilson
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '2975'
     url: http://www.gutenberg.org/2009/agents/2975
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55774#The-Law-of-Storms-The-various-phenomena-by-which-their-approach-can-be-ascertained-with-certa_
 gutenberg_issued: '2017-10-19'
 gutenberg_type: Text
 identifiers:
